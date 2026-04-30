@@ -34,3 +34,8 @@ A REST API authentication system built with C# ASP.NET Core and SQL Server.
 3. Run migrations: `dotnet ef database update`
 4. Run the project: `dotnet run`
 5. Open Swagger UI at `http://localhost:5118/swagger`
+
+
+
+## Live API
+https://authsystem-production-acc2.up.railway.app
