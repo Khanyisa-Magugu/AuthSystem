@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4gtDCPL41uM=",
+  "dgSpecHash": "Y2G8aaAw2A4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Khanyisa\\AuthSystem\\AuthSystem.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "C:\\Users\\Khanyisa\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512",
     "C:\\Users\\Khanyisa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Khanyisa\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.7\\microsoft.aspnetcore.authentication.jwtbearer.10.0.7.nupkg.sha512",
-    "C:\\Users\\Khanyisa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
     "C:\\Users\\Khanyisa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Khanyisa\\.nuget\\packages\\microsoft.bcl.cryptography\\9.0.4\\microsoft.bcl.cryptography.9.0.4.nupkg.sha512",
     "C:\\Users\\Khanyisa\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
